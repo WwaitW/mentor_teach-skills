@@ -2,6 +2,8 @@
 
 # 个人 Claude 技能库
 
+![版本](https://img.shields.io/badge/版本-1.0.0-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![superpowers](https://img.shields.io/badge/基于-superpowers-purple)
+
 基于 [superpowers](https://github.com/superpowers-ai/superpowers) 框架构建的个人 Claude Code 技能，在项目落地的基础上叠加因材施教能力。
 
 ---

@@ -2,6 +2,8 @@
 
 # Personal Claude Skills
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![superpowers](https://img.shields.io/badge/built%20on-superpowers-purple)
+
 Personal skills for Claude Code, built on top of the [superpowers](https://github.com/superpowers-ai/superpowers) framework. Adds personalized teaching capabilities on top of project delivery.
 
 ---
